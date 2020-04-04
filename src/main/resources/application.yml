@@ -1,0 +1,9 @@
+eureka:
+   client:
+      registerWithEureka: false
+      fetchRegistry: false
+      port: 8082
+      serviceUrl:
+         defaultZone: http://192.168.1.250:8082/eureka/ 
+server:
+   port: 8082
