@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hissummer.eurekaserver</groupId>
-  <artifactId>eurekaserverv1.0</artifactId>
+  <artifactId>eurekaserverv1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>eurekaserverv1.0</name>
-  <description>eurekaserverv1.0</description>
+  <name>eurekaserverV1</name>
+  <description>eurekaserver version1</description>
   
      <parent>
       <groupId>org.springframework.boot</groupId>
